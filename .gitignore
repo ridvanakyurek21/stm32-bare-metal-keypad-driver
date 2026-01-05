@@ -1,0 +1,36 @@
+# STM32 / Embedded build output
+Debug/
+Release/
+build/
+Binaries/
+Objects/
+
+# Compiled files
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.hex
+*.bin
+*.out
+*.su
+*.cyclo
+
+# IDE metadata
+.vscode/
+.settings/
+.cproject
+.project
+*.launch
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary / backup files
+*.swp
+*.swo
+*.bak
+*.tmp
+*~
